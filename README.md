@@ -1,6 +1,6 @@
 # **Complex Span Tasks**
 
-![hi](https://github.com/ThipkanlayaJaiaue/complex-span-tasks/blob/main/symmetry%20span%20task/symmetrySpan.gif)
+![SymmetrySpan](https://github.com/ThipkanlayaJaiaue/complex-span-tasks/blob/main/symmetry%20span%20task/symmetrySpan.gif)
 
 ###### *All tasks are compatible with *PsychoPy version 2025.1.1**
 
