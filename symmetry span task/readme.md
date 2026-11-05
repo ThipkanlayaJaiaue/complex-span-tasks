@@ -25,3 +25,14 @@ This task contains 3 familarisation blocks and an experimental task
 
 * Followed the same procedure as Familarisation Block 3.
 * Three blocks, each containing four set sizes (2–5; Set sizes presented in random order).
+
+---
+
+
+### 🗃️ **Process the data**
+
+Data collected from the task can be processed using *processSymmetrySpan.py*.
+⚠️ Ensure that task_folder (line 6) is updated to match the location of your data folder.
+
+
+---
