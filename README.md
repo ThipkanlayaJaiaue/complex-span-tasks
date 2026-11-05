@@ -1,5 +1,7 @@
 # **Complex Span Tasks**
 
+This repository contains two complex span tasks, each accompanied by a processing script that transforms the collected data into structured dataframes
+
 ### **A. Rotation Span Task**
 
 ![RotationSpan](https://github.com/ThipkanlayaJaiaue/complex-span-tasks/blob/main/rotation%20span%20task/rotationSpan.gif)
@@ -10,8 +12,6 @@
 
 
 ###### *All tasks are compatible with *PsychoPy version 2025.1.1**
-
-### 🔧 **Task setup and modification instructions (coming soon)**
 
 ---
 ### ❝ ❞ **How to cite**
