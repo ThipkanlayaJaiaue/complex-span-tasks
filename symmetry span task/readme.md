@@ -1,6 +1,8 @@
 # **Symmetry Span Task**
 
-This task contains 3 familarisation blocks and an experimental task
+This task consisted of three familiarisation blocks followed by an experimental task.
+
+-
 
 ### **Familiarisation**
 
