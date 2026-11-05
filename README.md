@@ -1,7 +1,7 @@
 # **Complex Span Tasks**
 
 
-<h2 align="center" style="border: none;">Symmetry Span Task</h2>
+<p align="center"><strong>Symmetry Span Task</strong></p>
 
 ![SymmetrySpan](https://github.com/ThipkanlayaJaiaue/complex-span-tasks/blob/main/symmetry%20span%20task/symmetrySpan.gif)
 
