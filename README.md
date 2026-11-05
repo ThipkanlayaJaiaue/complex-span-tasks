@@ -1,6 +1,6 @@
 # **Complex Span Tasks**
 
-This repository contains two PsychoPy-implemented complex span tasks: Rotation and Symmetry. 
+This repository contains two PsychoPy-implemented complex span tasks:  **Rotation** and **Symmetry**. 
 Each task is accompanied by a dedicated processing script that transforms the collected data into structured dataframes containing four different scoring measures.
 
 ### **A. Rotation Span Task**
