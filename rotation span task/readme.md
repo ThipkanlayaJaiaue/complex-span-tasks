@@ -20,7 +20,7 @@ This task consisted of three familiarisation blocks followed by an experimental 
 
 #### **Block 3 – Combined task:**
 
-* Alternate between rotation judgments and red-square presentations (650 ms), followed by serial recall.
+* Alternate between rotation judgments and arrow presentations (650 ms), followed by serial recall.
 * Three sets: two of size 2 and one of size 3.
 * Response time limit application: The limit calculated in Block 2 was applied. Rotation judgments exceeding this limit triggered automatic progression to the next arrow presentation.
 
