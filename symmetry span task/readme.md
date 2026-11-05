@@ -1,5 +1,7 @@
 # **Symmetry Span Task**
 
+Assessed WMC through spatial-sequence recall combined with symmetry judgments.
+
 This task consisted of three familiarisation blocks followed by an experimental task.
 
 
