@@ -1,10 +1,10 @@
 # **Complex Span Tasks**
 
-### **-- Rotation Span Task --**
+### **A. Rotation Span Task**
 
 ![RotationSpan](https://github.com/ThipkanlayaJaiaue/complex-span-tasks/blob/main/rotation%20span%20task/rotationSpan.gif)
 
-### ◈ **Symmetry Span Task**
+### **B. Symmetry Span Task**
 
 ![SymmetrySpan](https://github.com/ThipkanlayaJaiaue/complex-span-tasks/blob/main/symmetry%20span%20task/symmetrySpan.gif)
 
