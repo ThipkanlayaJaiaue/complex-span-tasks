@@ -1,6 +1,6 @@
 # **Complex Span Tasks**
 
-This repository contains two complex span tasks, each accompanied by a processing script that transforms the collected data into structured dataframes
+This repository contains two complex span tasks (Rotation and Symmetry), each accompanied by a processing script that transforms the collected data into structured dataframes
 
 ### **A. Rotation Span Task**
 
