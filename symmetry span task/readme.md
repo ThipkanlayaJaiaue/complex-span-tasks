@@ -32,7 +32,4 @@ This task contains 3 familarisation blocks and an experimental task
 ### 🗃️ **Process the data**
 
 Data collected from the task can be processed using *processSymmetrySpan.py*.
-⚠️ Ensure that task_folder (line 6) is updated to match the location of your data folder.
-
-
----
+⚠️ Ensure that task_folder (line 8) is updated to match the location of your data folder.
