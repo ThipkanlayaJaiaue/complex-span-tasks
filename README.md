@@ -4,6 +4,8 @@
 
 ![RotationSpan](https://github.com/ThipkanlayaJaiaue/complex-span-tasks/blob/main/rotation%20span%20task/rotationSpan.gif)
 
+---
+
 <h2 align="center">- Symmetry Span Task -</h2>
 
 ![SymmetrySpan](https://github.com/ThipkanlayaJaiaue/complex-span-tasks/blob/main/symmetry%20span%20task/symmetrySpan.gif)
