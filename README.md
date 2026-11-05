@@ -1,5 +1,7 @@
 # **Complex Span Tasks**
 
+![Uploading symmetrySpan.gif…]()
+
 ###### *All tasks are compatible with *PsychoPy version 2025.1.1**
 
 ### 🔧 **Task setup and modification instructions (coming soon)**
